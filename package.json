@@ -1,8 +1,15 @@
-node_modules/
-build/
-dist/
-coverage/
-.DS_Store
-*.log
-.env*
-!.env.example
+{
+  "name": "study-fun-way",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "hydrogen dev",
+    "build": "hydrogen build",
+    "start": "hydrogen start"
+  },
+  "dependencies": {
+    "@shopify/hydrogen": "^3.0.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
