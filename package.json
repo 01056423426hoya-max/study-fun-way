@@ -8,8 +8,8 @@
     "start": "hydrogen start"
   },
   "dependencies": {
-    "@shopify/hydrogen": "^3.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "@shopify/hydrogen": "^2024.4.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   }
 }
